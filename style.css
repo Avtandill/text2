@@ -1,0 +1,22 @@
+.div-1 {
+    width: 350px;
+    height: 160px;
+}
+.text-1 {
+    text-align: center;
+    color: #777777;
+}
+.text-2 {
+    color: #001AFF;
+    font-weight: bold;
+    text-align: center;
+}
+.div-2 {
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+}
+.text-3 {
+    text-align: justify; 
+    color: #FF0000;
+}
